@@ -1,0 +1,165 @@
+** Message: environement.vala:58: Exporting primary_variable
+** Message: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: environement.vala:176: custom_config :/etc/xdg/lubuntu:
+** Message: environement.vala:177: config_dirs :/etc/xdg/xdg-Lubuntu:/etc/xdg
+** Message: environement.vala:178: confir_dirs not null, export : /etc/xdg/lubuntu:/etc/xdg/xdg-Lubuntu:/etc/xdg
+** Message: environement.vala:183: Exporting XDG_CONFIG_DIRS
+** Message: environement.vala:217: custom_data :/etc/xdg/lubuntu:/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:
+** Message: environement.vala:218: data_dirs :/usr/share/Lubuntu:/usr/local/share/:/usr/share/
+** Message: environement.vala:219: data_dirs not null, export : /etc/xdg/lubuntu:/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/share/Lubuntu:/usr/local/share/:/usr/share/
+** Message: environement.vala:224: Exporting XDG_DATA_DIRS
+** Message: utils.vala:68: User config used : /home/lubu/.config/lxsession/Lubuntu/desktop.conf
+** Message: utils.vala:89: Final file used : /home/lubu/.config/lxsession/Lubuntu/desktop.conf
+** Message: settings.vala:527: Файл ключей не содержит ключа «iGtk/ColorScheme» в группе «GTK»
+** Message: settings.vala:527: Файл ключей не содержит ключа «dock/command» в группе «Session»
+** Message: settings.vala:527: Файл ключей не содержит ключа «im2/command» в группе «Session»
+** Message: settings.vala:527: Файл ключей не содержит ключа «widget1/command» в группе «Session»
+** Message: settings.vala:527: Файл ключей не содержит ключа «notification/command» в группе «Session»
+** Message: settings.vala:527: Файл ключей не содержит ключа «keybindings/command» в группе «Session»
+** Message: settings.vala:527: Файл ключей не содержит ключа «message_manager/command» в группе «Session»
+** Message: settings.vala:527: Файл ключей не содержит ключа «proxy_manager/http» в группе «Session»
+** Message: settings.vala:527: Файл ключей не содержит ключа «a11y/command» в группе «Session»
+** Message: settings.vala:527: Файл ключей не содержит ключа «xrandr/command» в группе «Session»
+** Message: settings.vala:527: Файл ключей не содержит ключа «charmap/command» в группе «Session»
+** Message: settings.vala:527: Файл ключей не содержит ключа «type» в группе «Updates»
+** Message: settings.vala:449: Monitoring: /home/lubu/.config/lxsession/Lubuntu/desktop.conf
+** Message: settings.vala:453: Desktop file is already in config home, do nothing
+** Message: environement.vala:79: Exporting variable
+** Message: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: environement.vala:176: custom_config :
+** Message: environement.vala:177: config_dirs :/etc/xdg/lubuntu:/etc/xdg/xdg-Lubuntu:/etc/xdg
+** Message: environement.vala:178: confir_dirs not null, export : /etc/xdg/lubuntu:/etc/xdg/xdg-Lubuntu:/etc/xdg
+** Message: environement.vala:183: Exporting XDG_CONFIG_DIRS
+** Message: environement.vala:217: custom_data :
+** Message: environement.vala:218: data_dirs :/etc/xdg/lubuntu:/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/share/Lubuntu:/usr/local/share/:/usr/share/
+** Message: environement.vala:219: data_dirs not null, export : /etc/xdg/lubuntu:/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/share/Lubuntu:/usr/local/share/:/usr/share/
+** Message: environement.vala:224: Exporting XDG_DATA_DIRS
+** Message: utils.vala:79: Config system location : /etc/xdg/xdg-Lubuntu/lxsession/Lubuntu
+** Message: utils.vala:79: Config system location : /etc/xdg/lxsession/Lubuntu
+** Message: utils.vala:85: System system path location : /etc/xdg/lxsession/Lubuntu/conffiles.conf
+** Message: utils.vala:89: Final file used : /etc/xdg/lxsession/Lubuntu/conffiles.conf
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: options.vala:164: Activate xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/lubu/.config/lxsession/Lubuntu/desktop.conf
+** Message: utils.vala:89: Final file used : /home/lubu/.config/lxsession/Lubuntu/desktop.conf
+** Message: app.vala:76: Launching lxpanel 
+** Message: app.vala:76: Launching pcmanfm 
+** Message: app.vala:717: polkit separate
+** Message: app.vala:717: polkit separate
+** Message: utils.vala:68: User config used : /home/lubu/.config/lxsession/Lubuntu/autostart
+** Message: utils.vala:89: Final file used : /home/lubu/.config/lxsession/Lubuntu/autostart
+** Message: autostart.vala:42: Autostart path : /home/lubu/.config/lxsession/Lubuntu/autostart
+** Message: options.vala:107: Create build-in Clipboard
+** Message: main.vala:429: Check keymap_mode system
+** Message: main.vala:432: Create Option Keymap
+** Message: app.vala:76: Launching /usr/bin/ssh-agent 
+
+** (light-locker:2255): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (update-notifier:2251): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+Openbox-Message: Запрошенного ключа "XF86Terminal" на экране не существует
+SSH_AUTH_SOCK=/tmp/ssh-JHScjsFphwXX/agent.2246; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=2342; export SSH_AGENT_PID;
+echo Agent pid 2342;
+** Message: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+
+** (nm-applet:2253): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+App load time: 9562ms
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+** (update-manager:2561): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+** (apport-gtk:2578): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+/usr/share/apport/apport-gtk:16: PyGIWarning: Wnck was imported without specifying a version first. Use gi.require_version('Wnck', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import GLib, Wnck, GdkX11, Gdk
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+Openbox-Message: Запрошенного ключа "XF86Terminal" на экране не существует
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+App load time: 2470ms
+Openbox-Message: Запрошенного ключа "XF86Terminal" на экране не существует
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+/usr/bin/update-manager:28: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+/usr/lib/python3/dist-packages/UpdateManager/UnitySupport.py:29: PyGIWarning: Dbusmenu was imported without specifying a version first. Use gi.require_version('Dbusmenu', '0.4') before import to ensure that the right version gets loaded.
+  from gi.repository import Dbusmenu, Unity
+/usr/lib/python3/dist-packages/UpdateManager/UnitySupport.py:29: PyGIWarning: Unity was imported without specifying a version first. Use gi.require_version('Unity', '7.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Dbusmenu, Unity
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+1471384564050	addons.update-checker	WARN	Update manifest for ubufox@ubuntu.com did not contain an updates property
+1471384564192	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1471384564281	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1471384564518	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(pcmanfm:2244): GLib-CRITICAL **: Source ID 789 was not found when attempting to remove it
+
+(pcmanfm:2244): GLib-CRITICAL **: Source ID 9468 was not found when attempting to remove it
+
+(pcmanfm:2244): GLib-CRITICAL **: Source ID 9482 was not found when attempting to remove it
+
+(pcmanfm:2244): GLib-CRITICAL **: Source ID 9492 was not found when attempting to remove it
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+Openbox-Message: Запрошенного ключа "XF86Terminal" на экране не существует
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:2243): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE

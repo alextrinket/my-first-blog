@@ -1,0 +1,7 @@
+www.google-analytics.com:HSTS	0	17027	1482093063385,1,1
+services.addons.mozilla.org:HSTS	1	17029	1502920562102,1,0
+atom.io:HSTS	0	17027	2102358862190,1,0
+self-repair.mozilla.org:HSTS	1	17029	1471387697858,1,1
+github-atom-io-herokuapp-com.global.ssl.fastly.net:HSTS	0	17027	1502742740175,1,0
+stats.g.doubleclick.net:HSTS	0	17027	1482093063972,1,1
+blocklist.addons.mozilla.org:HSTS	1	17029	1502920682172,1,0

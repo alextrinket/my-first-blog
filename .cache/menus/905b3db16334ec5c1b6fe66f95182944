@@ -1,0 +1,1215 @@
+1.2
+lxde-applications.menu+hidden
+20
+D/home/lubu/.local/share/desktop-directories
+D/etc/xdg/lubuntu/desktop-directories
+D/usr/local/share/desktop-directories
+D/usr/share/desktop-directories
+D/usr/share/gdm/desktop-directories
+D/var/lib/menu-xdg/desktop-directories
+D/usr/share/Lubuntu/desktop-directories
+D/home/lubu/.local/share/applications
+D/etc/xdg/lubuntu/applications
+D/usr/local/share/applications
+D/usr/share/applications
+D/usr/share/gdm/applications
+D/var/lib/menu-xdg/applications
+D/usr/share/Lubuntu/applications
+D/etc/xdg/menus/applications-merged
+D/etc/xdg/xdg-Lubuntu/menus/applications-merged
+D/etc/xdg/lubuntu/menus/applications-merged
+D/home/lubu/.config/menus/applications-merged
+F/home/lubu/.config/menus/lxde-applications.menu
+F/etc/xdg/lubuntu/menus/lxde-applications.menu
+MATE;Unity;
++Applications
+
+
+
+
+-1
+0
++Electronics
+
+
+
+Electronics.directory
+-1
+4
+
++Multimedia
+Аудио и видео
+Мультимедиа
+applications-multimedia
+lxde-audio-video.directory
+3
+0
+-alsamixergui.desktop
+Alsamixergui
+Graphical audio mixer
+/usr/share/pixmaps/alsamixergui.xpm
+
+10
+
+/usr/bin/alsamixergui
+0
+0
+
+
+Application;AudioVideo
+
+-audacious.desktop
+Audacious
+Слушать музыку
+audacious
+
+10
+Музыкальный проигрыватель
+audacious %U
+0
+0
+audacious
+
+AudioVideo;Audio;Player;GTK
+
+-gnome-mplayer.desktop
+GNOME MPlayer
+Воспроизведение мультимедиа
+gnome-mplayer
+
+10
+Мультимедийный проигрыватель
+gnome-mplayer %U
+2
+0
+
+
+AudioVideo;Audio;Video;Player;TV
+
+-guvcview.desktop
+guvcview
+Программа просмотра и записи видео для драйвера Linux UVC
+/usr/share/pixmaps/guvcview/guvcview.png
+
+10
+GTK UVC видео обозреватель
+guvcview
+2
+0
+guvcview
+
+Video;AudioVideo
+
+-xfburn.desktop
+Xfburn
+Запись CD и DVD
+media-cdrom
+
+10
+
+xfburn
+2
+0
+xfburn
+
+X-XFCE;GTK;DiscBurning;Archiving;AudioVideo;Utility
+
+
++Graphics
+Графика
+Графические приложения
+applications-graphics
+lxde-graphics.directory
+3
+0
+-mtpaint.desktop
+mtPaint graphic editor
+painting program to create pixel art and manipulate digital photos
+mtpaint
+
+10
+Painting program
+mtpaint
+0
+0
+
+
+Graphics;RasterGraphics
+graphics,editor
+-evince-previewer.desktop
+Предварительный просмотр печати
+Предварительный просмотр перед печатью
+document-print-preview
+
+10
+
+evince-previewer %U
+6
+0
+evince-previewer
+
+GNOME;GTK;Office;Viewer;Graphics;2DGraphics;VectorGraphics
+
+-evince.desktop
+Просмотр документов
+Просмотр многостраничных документов
+evince
+
+10
+
+evince %U
+2
+0
+evince
+
+GNOME;GTK;Office;Viewer;Graphics;2DGraphics;VectorGraphics
+pdf,ps,postscript,dvi,xps,djvu,tiff,документ,презентация
+-simple-scan.desktop
+Простое сканирование
+Сканирование документов
+scanner
+
+10
+Сканер документов
+simple-scan
+2
+0
+
+
+GNOME;GTK;Graphics;Scanning
+сканировать,сканер,планшетный,автоподатчик
+
++Games
+Игры
+Игры и развлечения
+applications-games
+lxde-game.directory
+3
+4
+
++Internet
+Интернет
+Программы для работы с Интернетом (почта, браузер и т.п.)
+applications-internet
+lxde-network.directory
+3
+0
+-sylpheed.desktop
+Sylpheed
+E-Mail клиент
+sylpheed
+
+10
+
+sylpheed %u
+0
+0
+
+
+GTK;Network;Email;News
+lightweight,user-friendly,keyboard-oriented,mh,imap,pop3,nntp,japanese,plugins,gpg
+-transmission-gtk.desktop
+Transmission
+Download and share files over BitTorrent
+transmission
+
+10
+BitTorrent Client
+transmission-gtk %U
+2
+0
+transmission-gtk
+
+Network;FileTransfer;P2P;GTK
+
+-lxde-x-www-browser.desktop
+Web Browser
+
+web-browser
+
+10
+X Web Browser
+/usr/bin/x-www-browser %u
+4
+0
+
+
+GTK;WebBrowser;Network
+
+-firefox.desktop
+Веб-браузер Firefox
+Доступ в Интернет
+firefox
+
+10
+Веб-браузер
+firefox %u
+2
+0
+
+
+GNOME;GTK;Network;WebBrowser
+Internet,WWW,Browser,Web,Explorer,интернет,браузер,веб,файрфокс,огнелис
+-pidgin.desktop
+Клиент обмена мгновенными сообщениями Pidgin
+Переписка мгновенными сообщениями.  Поддерживает AIM, Google Talk, Jabber/XMPP, MSN, Yahoo и не только
+pidgin
+
+10
+Клиент обмена мгновенными сообщениями
+pidgin
+2
+0
+
+
+Network;InstantMessaging
+
+
++Education
+Образовательные
+
+applications-science
+lxde-education.directory
+3
+4
+
++Office
+Офис
+Офисные приложения
+applications-office
+lxde-office.directory
+3
+0
+-abiword.desktop
+AbiWord
+Обработка форматированных текстовых документов
+abiword
+
+10
+Текстовый редактор
+abiword %U
+2
+0
+
+
+Office;WordProcessor;GNOME;GTK;X-Red-Hat-Base
+
+-gnumeric.desktop
+Gnumeric
+Вычисление, анализ и визуализация информации
+gnumeric
+
+10
+Электронная таблица
+gnumeric %U
+2
+0
+
+
+Office;Spreadsheet;Science;Math;GNOME;GTK
+Spreadsheet
+
++Development
+Программирование
+Средства для разработки программ
+applications-development
+lxde-development.directory
+3
+0
+-atom.desktop
+Atom
+A hackable text editor for the 21st century
+atom
+
+10
+
+/opt/atom/atom %F
+2
+0
+
+
+TextEditor;Development;Utility
+
+-python2.7.desktop
+Python (v2.7)
+Python Interpreter (v2.7)
+/usr/share/pixmaps/python2.7.xpm
+
+10
+
+/usr/bin/python2.7
+7
+0
+
+
+Development
+
+-python3.5.desktop
+Python (v3.5)
+Python Interpreter (v3.5)
+/usr/share/pixmaps/python3.5.xpm
+
+10
+
+/usr/bin/python3.5
+7
+0
+
+
+Development
+
+
++Other
+Прочие
+Приложения, не подпадающие ни под какие категории
+applications-other
+lxde-other.directory
+3
+0
+-lubuntu-screenlock.desktop
+ScreenLock
+Lock your screen
+system-lock-screen
+
+10
+
+lxlock
+4
+0
+
+
+
+
+-lubuntu-logout.desktop
+Shutdown
+Shutdown or Reboot
+system-shutdown-panel
+
+10
+
+lxsession-default quit
+4
+0
+
+
+
+
+-gcr-viewer.desktop
+View file
+
+
+
+10
+
+/usr/bin/gcr-viewer
+4
+0
+
+
+
+
+-gnome-disk-image-writer.desktop
+Запись дискового образа
+Запись дисковых образов на устройство
+drive-removable-media
+
+10
+
+gnome-disks --restore-disk-image %U
+4
+0
+
+
+
+
+-gnome-disk-image-mounter.desktop
+Подключение образов дисков
+Подключает образы дисков
+drive-removable-media
+
+10
+
+gnome-disk-image-mounter %U
+4
+0
+
+
+
+
+-gcr-prompter.desktop
+Получение доступа
+Открыть доступ к паролям и другим секретам
+security-medium
+
+10
+
+/usr/lib/gcr/gcr-prompter
+4
+0
+
+
+
+
+-nm-applet.desktop
+Сеть
+Управление сетевыми соединениями
+nm-device-wireless
+
+10
+
+nm-applet
+4
+-7
+
+
+
+
+
++Universal Access
+Специальные возможности
+Параметры специальных возможностей
+preferences-desktop-accessibility
+lxde-utility-accessibility.directory
+3
+4
+
++Accessories
+Стандартные
+Стандартные приложения
+applications-accessories
+lxde-utility.directory
+3
+0
+-atom.desktop
+Atom
+A hackable text editor for the 21st century
+atom
+
+10
+
+/opt/atom/atom %F
+2
+0
+
+
+TextEditor;Development;Utility
+
+-fcitx-skin-installer.desktop
+Fcitx Skin Installer
+Installer Script for Fcitx Skin
+fcitx
+
+10
+
+fcitx-skin-installer %U
+4
+0
+
+
+Utility
+
+-galculator.desktop
+Galculator
+Вычисления: простые и инженерные
+galculator
+
+10
+
+galculator
+2
+0
+
+
+Utility
+
+-leafpad.desktop
+Leafpad
+Простой текстовый редактор
+leafpad
+
+10
+
+leafpad %f
+0
+0
+
+
+GTK;Utility;TextEditor
+editor
+-vim.desktop
+Vim
+Редактор текстовых файлов
+gvim
+
+10
+Text Editor
+vim %F
+1
+0
+vim
+
+Utility;TextEditor
+
+-xpad.desktop
+Xpad
+Заметки/стикеры на вашем рабочем столе
+xpad
+
+10
+Cтикеры
+xpad
+2
+0
+xpad
+
+GTK;Utility
+
+-org.gnome.DiskUtility.desktop
+Диски
+Управление дисками и носителями
+gnome-disks
+
+10
+
+gnome-disks
+2
+0
+
+
+GNOME;GTK;Utility;HardwareSettings;X-GNOME-Utilities;Settings;HardwareSettings
+диск,привод,том,жесткий,hdd,cdrom,dvd,раздел,iso,образ,резервное,копирование,восстановление,тест,производительность,raid,шифрование,S.M.A.R.T.,smart
+-org.gnome.FileRoller.desktop
+Менеджер архивов
+Создать или изменить архив
+file-roller
+
+10
+
+file-roller %U
+6
+-5
+file-roller
+
+GTK;GNOME;Utility;Archiving;Compression;X-GNOME-Utilities
+zip,tar,извлечь,распаковать
+-file-roller.desktop
+Менеджер архивов
+Создать или изменить архив
+file-roller
+
+10
+
+file-roller %U
+2
+-5
+file-roller
+
+GTK;GNOME;Utility;Archiving;Compression;X-GNOME-Utilities
+zip,tar,извлечь,распаковать
+-gpicview.desktop
+Просмотр изображений
+Смотрите ваши изображения без проблем
+gpicview
+
+10
+Просмотр изображений
+gpicview %f
+2
+0
+
+
+Graphics;Utility;Core;GTK;Viewer;RasterGraphics;2DGraphics;Photography
+graphics,pictures,viever,photography
+-lxshortcut.desktop
+Редактор ярлыков
+Создавать или редактировать ярлык программы
+applications-other
+
+10
+
+lxshortcut -i %f
+6
+0
+
+
+Utility;GTK
+
+-apport-gtk.desktop
+Сообщить о неполадке...
+Сообщить о недоработке разработчикам
+apport
+
+10
+
+/usr/share/apport/apport-gtk -c %f
+6
+0
+
+
+GNOME;GTK;Utility
+
+-gucharmap.desktop
+Таблица символов
+Программа для вставки специальных символов в документы
+accessories-character-map
+
+10
+
+gucharmap
+2
+0
+
+
+GNOME;GTK;Utility
+шрифт,юникод
+-pcmanfm.desktop
+Файловый менеджер PCManFM
+Просмотр файловой системы и управление файлами
+system-file-manager
+
+10
+Файловый менеджер
+pcmanfm %U
+2
+0
+
+
+System;FileTools;FileManager;Utility;Core;GTK
+
+
+-
++Administration
+Системные
+Средства конфигурации и мониторинга системы
+applications-system
+lxde-system-tools.directory
+3
+0
+-fcitx.desktop
+Fcitx
+Start Input Method
+fcitx
+
+10
+Input Method
+fcitx
+0
+0
+
+
+System;Utility
+
+-lxterminal.desktop
+LXTerminal
+Использовать командную строку
+lxterminal
+
+10
+Терминал
+lxterminal
+0
+0
+lxterminal
+
+GTK;System;TerminalEmulator
+console,command line,execute
+-hardinfo.desktop
+System Profiler and Benchmark
+
+/usr/share/hardinfo/pixmaps/logo.png
+
+10
+
+hardinfo
+2
+0
+
+
+System
+
+-lxde-x-terminal-emulator.desktop
+Terminal emulator
+Terminal Emulator
+terminal
+
+10
+Terminal Emulator
+/usr/bin/x-terminal-emulator
+6
+0
+
+
+System;TerminalEmulator;Utility
+
+-time.desktop
+Дата и время
+Установка времени, даты и часового пояса
+time-admin
+
+10
+
+time-admin
+2
+0
+
+
+GNOME;GTK;System;Settings
+
+-lxtask.desktop
+Диспетчер задач
+Управлять запущенными приложениями и процессами
+utilities-system-monitor
+
+10
+Диспетчер процессов
+lxtask
+2
+0
+
+
+GTK;System;Monitor
+процесс,задача,программа,приложение,убить,остановить,процессор,память,отслеживать,производительность
+-synaptic.desktop
+Менеджер пакетов Synaptic
+Установить, удалить и обновить пакеты
+synaptic
+
+10
+Менеджер пакетов
+synaptic-pkexec
+0
+0
+
+
+PackageManager;GTK;System;Settings
+
+-lightdm-gtk-greeter-settings.desktop
+Настройки LightDM GTK+ Greeter
+Настройка LightDM GTK+ Greeter
+lightdm-gtk-greeter-settings
+
+10
+
+lightdm-gtk-greeter-settings-pkexec
+0
+0
+
+
+GNOME;GTK;Settings;System;Utility;X-XFCE-SettingsDialog;X-XFCE-SystemSettings
+Configuration,Utility
+-update-manager.desktop
+Обновление приложений
+Показать и установить доступные обновления
+system-software-update
+
+10
+Обновление приложений
+/usr/bin/update-manager
+0
+0
+
+
+System;Settings
+
+-shares.desktop
+Опубликованные папки
+Задать папки, доступные для сетевого окружения
+folder-remote
+
+10
+
+shares-admin
+6
+0
+
+
+GNOME;GTK;System;Settings;X-GNOME-NetworkSettings
+
+-users.desktop
+Пользователи и группы
+Добавить или удалить пользователей и группы
+config-users
+
+10
+
+users-admin
+2
+0
+
+
+GNOME;GTK;System;Settings
+
+-system-config-printer.desktop
+Принтеры
+Настроить принтеры
+printer
+
+10
+
+system-config-printer
+2
+-7
+
+
+GNOME;GTK;Settings;HardwareSettings;X-GNOME-Settings-Panel;X-Unity-Settings-Panel;System;Printing
+Printer,Queue,Print,Paper,Ink,Toner
+-gdebi.desktop
+Программа установки пакетов GDebi
+Программа установки и просмотра пакетов программ
+gnome-mime-application-x-deb
+
+10
+Программа установки пакетов
+gdebi-gtk %f
+2
+-5
+
+
+System
+пакет,apt,dpkg,установить
+-network.desktop
+Сеть
+Настроить сетевые устройства и соединения
+preferences-system-network
+
+10
+
+network-admin
+2
+0
+
+
+GNOME;GTK;System;Settings;X-GNOME-NetworkSettings
+
+-usb-creator-gtk.desktop
+Создание загрузочного диска
+Создание загрузочного диска с использованием CD или образа диска
+usb-creator-gtk
+
+10
+Создание загрузочного диска
+usb-creator-gtk
+0
+0
+
+
+System;Settings;GTK;HardwareSettings
+
+-gksu.desktop
+Терминал суперпользователя
+Открыть терминал для суперпользователя, используя gksu для запроса пароля
+gksu-root-terminal
+
+10
+
+gksu /usr/bin/x-terminal-emulator
+6
+0
+
+
+GTK;System;TerminalEmulator
+
+-lubuntu-software-center.desktop
+Центр приложений Lubuntu
+Позволяет вам выбирать из тысяч приложений, доступных для Ubuntu
+lubuntu-software-center
+
+10
+Центр приложений
+lubuntu-software-center
+2
+0
+
+
+PackageManager;GTK;System;Settings
+Sources,PPA,Install,Uninstall,Remove,Catalogue,Store,Apps,Light,Package
+
++DesktopSettings
+Параметры
+Персональные предпочтения
+preferences-desktop
+lxde-settings.directory
+3
+0
+-fcitx-config-gtk2.desktop
+Fcitx Config Tool
+Fcitx GUI Config Tool
+fcitx
+
+10
+
+fcitx-config-gtk
+4
+0
+
+
+Settings
+
+-fcitx-configtool.desktop
+Fcitx Configuration
+Change Fcitx Configuration
+fcitx
+
+10
+Input Method Configuration
+fcitx-configtool
+0
+0
+
+
+Settings
+
+-blueman-adapters.desktop
+Адаптеры Bluetooth
+Установить свойства адаптеров Bluetooth
+blueman-device
+
+10
+
+blueman-adapters
+2
+40
+
+
+X-XFCE;Settings;HardwareSettings;X-XFCE-SettingsDialog;GTK
+
+-org.gnome.DiskUtility.desktop
+Диски
+Управление дисками и носителями
+gnome-disks
+
+10
+
+gnome-disks
+2
+0
+
+
+GNOME;GTK;Utility;HardwareSettings;X-GNOME-Utilities;Settings;HardwareSettings
+диск,привод,том,жесткий,hdd,cdrom,dvd,раздел,iso,образ,резервное,копирование,восстановление,тест,производительность,raid,шифрование,S.M.A.R.T.,smart
+-software-properties-drivers.desktop
+Дополнительные драйверы
+Configure third-party and proprietary drivers
+jockey
+
+10
+
+/usr/bin/software-properties-gtk --open-tab=4
+0
+0
+
+
+X-XFCE;GTK;Settings;HardwareSettings
+Drivers
+-lxinput.desktop
+Клавиатура и мышь
+Настроить клавиатуру, мышь и другие устройства ввода
+input-keyboard
+
+10
+
+lxinput
+2
+-47
+
+
+GTK;Settings;HardwareSettings;X-LXDE-Settings
+
+-blueman-manager.desktop
+Менеджер Bluetooth
+Менеджер Bluetooth Blueman
+blueman
+
+10
+
+blueman-manager
+2
+0
+
+
+GTK;GNOME;Settings;HardwareSettings
+
+-obconf.desktop
+Менеджер настройки Openbox
+Настройка Openbox
+obconf
+
+10
+Менеджер настройки Openbox
+obconf %f
+2
+0
+
+
+Settings;DesktopSettings;GTK
+openbox,settings,configurations,themes
+-xfce4-power-manager-settings.desktop
+Менеджер питания
+Настройки менеджера питания Xfce
+xfpm-ac-adapter
+
+10
+Менеджер питания
+xfce4-power-manager-settings
+2
+-71
+
+
+XFCE;GTK;Settings;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings
+
+-im-config.desktop
+Метод ввода
+Настройка метода ввода с клавиатуры
+input-keyboard
+
+10
+
+im-config
+0
+6
+
+
+Settings
+keyboard,input
+-lxappearance.desktop
+Настройка внешнего вида
+Настройте тему рабочего стола и приложений
+preferences-desktop-theme
+
+10
+Настройка внешнего вида
+lxappearance
+2
+-47
+
+
+GTK;Settings;DesktopSettings;X-LXDE-Settings
+окна,предпочтения,настройки,установки,тема,стиль,оформление,вид
+-light-locker-settings.desktop
+Настройки Light Locker
+Настройка блокировки экрана
+preferences-desktop-screensaver
+
+10
+
+/usr/bin/light-locker-settings
+2
+0
+
+
+XFCE;GNOME;GTK;Settings;X-GNOME-Settings-Panel;X-GNOME-PersonalSettings;DesktopSettings;X-XFCE
+Configuration,Screensaver,User
+-lxrandr.desktop
+Настройки дисплея
+Смена разрешения экрана и настройка внешних дисплеев
+video-display
+
+10
+
+lxrandr
+0
+-47
+
+
+GTK;Settings;HardwareSettings;X-LXDE-Settings
+экран,отображение,ТВ,расширить,проектор,xrandr,частота обновления,положение,включить,отключить
+-xfce4-notifyd-config.desktop
+Оповещения
+Настройка отображения оповещений на вашем экране
+xfce4-notifyd
+
+10
+
+xfce4-notifyd-config
+2
+8
+
+
+XFCE;GTK;Settings;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-PersonalSettings
+
+-pcmanfm-desktop-pref.desktop
+Параметры рабочего стола
+Смена обоев рабочего стола и поведения менеджера рабочего стола
+user-desktop
+
+10
+
+pcmanfm --desktop-pref
+2
+-47
+
+
+Settings;GTK;DesktopSettings;X-LXDE-Settings
+
+-lxsession-default-apps.desktop
+Приложения по умолчанию для LXSession
+Выбор приложений LXDE по умолчанию
+xfwm4
+
+10
+
+lxsession-default-apps
+0
+-15
+
+
+GTK;Settings;DesktopSettings;X-LXDE-Settings
+
+-software-properties-gnome.desktop
+Программы и обновления
+Настроить источники установки и обновления программ
+software-properties
+
+10
+Программы и обновления
+software-properties-gtk
+0
+2
+
+
+GNOME;GTK;Settings;X-GNOME-SystemSettings
+Драйверы,Репозитории,Репозиторий,PPA
+-software-properties-gtk.desktop
+Программы и обновления
+Настроить источники установки и обновления программ
+software-properties
+
+10
+Программы и обновления
+software-properties-gtk
+0
+-3
+
+
+GNOME;GTK;Settings;X-GNOME-SystemSettings;X-GNOME-Settings-Panel;X-Unity-Settings-Panel
+Драйверы,Репозитории,Репозиторий,PPA
+-nm-connection-editor.desktop
+Сетевые соединения
+Управление параметрами сетевых соединений
+preferences-system-network
+
+10
+
+nm-connection-editor
+2
+-7
+
+
+GNOME;GTK;Settings;X-GNOME-NetworkSettings
+
+-language-selector.desktop
+Язык системы
+Выбор и установка поддержки основного и дополнительных языков операционной системы
+preferences-desktop-locale
+
+10
+
+/usr/bin/gnome-language-selector
+0
+-5
+
+
+GNOME;GTK;Settings;DesktopSettings;X-GNOME-Settings-Panel;X-Unity-Settings-Panel;X-GNOME-PersonalSettings
+Language,Input method,Region,Format
+
+

@@ -1,0 +1,78 @@
+2016/08/15-12:50:21.048 2989 Reusing MANIFEST /home/lubu/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2016/08/15-12:50:21.049 2989 Recovering log #3
+2016/08/15-12:50:21.135 2989 Reusing old log /home/lubu/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2016/08/15-13:21:59.354 3341 Level-0 table #5: started
+2016/08/15-13:21:59.511 3341 Level-0 table #5: 1417228 bytes OK
+2016/08/15-13:21:59.520 3341 Delete type=0 #3
+2016/08/15-13:24:52.865 3341 Level-0 table #7: started
+2016/08/15-13:24:53.023 3341 Level-0 table #7: 1244064 bytes OK
+2016/08/15-13:24:53.033 3341 Delete type=0 #4
+2016/08/15-13:27:25.903 3341 Level-0 table #9: started
+2016/08/15-13:27:26.068 3341 Level-0 table #9: 1223783 bytes OK
+2016/08/15-13:27:26.079 3341 Delete type=0 #6
+2016/08/15-13:29:09.911 3341 Level-0 table #11: started
+2016/08/15-13:29:10.036 3341 Level-0 table #11: 1207960 bytes OK
+2016/08/15-13:29:10.046 3341 Delete type=0 #8
+2016/08/15-13:41:20.224 3341 Level-0 table #13: started
+2016/08/15-13:41:20.446 3341 Level-0 table #13: 1199245 bytes OK
+2016/08/15-13:41:20.456 3341 Delete type=0 #10
+2016/08/15-13:42:36.297 3341 Level-0 table #15: started
+2016/08/15-13:42:36.423 3341 Level-0 table #15: 1207937 bytes OK
+2016/08/15-13:42:36.431 3341 Delete type=0 #12
+2016/08/15-13:42:36.433 3341 Compacting 4@0 + 1@1 files
+2016/08/15-13:42:36.716 3341 Generated table #16: 3 keys, 40890 bytes
+2016/08/15-13:42:36.716 3341 Compacted 4@0 + 1@1 files => 40890 bytes
+2016/08/15-13:42:36.721 3341 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/08/15-13:42:36.722 3341 Delete type=2 #11
+2016/08/15-13:42:36.724 3341 Delete type=2 #13
+2016/08/15-13:42:36.725 3341 Delete type=2 #7
+2016/08/15-13:42:36.727 3341 Delete type=2 #9
+2016/08/15-13:42:36.731 3341 Delete type=2 #15
+2016/08/16-01:10:58.268 3341 Level-0 table #18: started
+2016/08/16-01:10:58.387 3341 Level-0 table #18: 1206368 bytes OK
+2016/08/16-01:10:58.395 3341 Delete type=0 #14
+2016/08/16-01:12:17.299 3341 Level-0 table #20: started
+2016/08/16-01:12:17.422 3341 Level-0 table #20: 1216014 bytes OK
+2016/08/16-01:12:17.430 3341 Delete type=0 #17
+2016/08/16-01:15:53.006 3341 Level-0 table #22: started
+2016/08/16-01:15:53.122 3341 Level-0 table #22: 1197807 bytes OK
+2016/08/16-01:15:53.130 3341 Delete type=0 #19
+2016/08/16-01:17:04.411 3341 Level-0 table #24: started
+2016/08/16-01:17:04.529 3341 Level-0 table #24: 1200061 bytes OK
+2016/08/16-01:17:04.538 3341 Delete type=0 #21
+2016/08/16-01:17:04.541 3341 Compacting 4@0 + 1@1 files
+2016/08/16-01:17:04.818 3341 Generated table #25: 3 keys, 51158 bytes
+2016/08/16-01:17:04.819 3341 Compacted 4@0 + 1@1 files => 51158 bytes
+2016/08/16-01:17:04.825 3341 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/08/16-01:17:04.826 3341 Delete type=2 #22
+2016/08/16-01:17:04.827 3341 Delete type=2 #24
+2016/08/16-01:17:04.830 3341 Delete type=2 #18
+2016/08/16-01:17:04.832 3341 Delete type=2 #16
+2016/08/16-01:17:04.832 3341 Delete type=2 #20
+2016/08/16-01:20:58.421 3341 Level-0 table #27: started
+2016/08/16-01:20:58.499 3341 Level-0 table #27: 1191651 bytes OK
+2016/08/16-01:20:58.514 3341 Delete type=0 #23
+2016/08/16-01:22:01.483 3341 Level-0 table #29: started
+2016/08/16-01:22:01.584 3341 Level-0 table #29: 1209155 bytes OK
+2016/08/16-01:22:01.592 3341 Delete type=0 #26
+2016/08/16-01:23:02.634 3341 Level-0 table #31: started
+2016/08/16-01:23:02.770 3341 Level-0 table #31: 1205313 bytes OK
+2016/08/16-01:23:02.778 3341 Delete type=0 #28
+2016/08/16-01:24:09.037 3341 Level-0 table #33: started
+2016/08/16-01:24:09.162 3341 Level-0 table #33: 1196722 bytes OK
+2016/08/16-01:24:09.169 3341 Delete type=0 #30
+2016/08/16-01:24:09.172 3341 Compacting 4@0 + 1@1 files
+2016/08/16-01:24:09.317 3341 Generated table #34: 3 keys, 61205 bytes
+2016/08/16-01:24:09.317 3341 Compacted 4@0 + 1@1 files => 61205 bytes
+2016/08/16-01:24:09.321 3341 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/08/16-01:24:09.321 3341 Delete type=2 #29
+2016/08/16-01:24:09.322 3341 Delete type=2 #25
+2016/08/16-01:24:09.322 3341 Delete type=2 #33
+2016/08/16-01:24:09.322 3341 Delete type=2 #27
+2016/08/16-01:24:09.323 3341 Delete type=2 #31
+2016/08/16-01:25:05.749 3341 Level-0 table #36: started
+2016/08/16-01:25:05.857 3341 Level-0 table #36: 1181687 bytes OK
+2016/08/16-01:25:05.897 3341 Delete type=0 #32
+2016/08/16-01:30:28.563 3341 Level-0 table #38: started
+2016/08/16-01:30:28.686 3341 Level-0 table #38: 1203462 bytes OK
+2016/08/16-01:30:28.693 3341 Delete type=0 #35
